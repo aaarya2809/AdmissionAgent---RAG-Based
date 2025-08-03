@@ -18,27 +18,6 @@ The agent helps students:
 - **Python (Optional)** – To prepare and upload data
 - **RAG (Retrieval-Augmented Generation)** – for answering queries
 
----
-
-## 📁 Folder Structure
-
-```
-College-Admission-Agent/
-│
-├── docs/
-│   ├── eligibility_criteria.txt
-│   ├── fee_structure.txt
-│   ├── how_to_apply.txt
-│   └── important_dates.txt
-│
-├── notebook/
-│   └── create_admission_documents.ipynb
-│
-├── agent_config/
-│   └── vector_index_settings.json
-│
-└── README.md
-```
 
 ---
 
